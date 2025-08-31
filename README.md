@@ -68,9 +68,13 @@ cd ~/JavaScript_metodos-array
 ## 💡 Detalhes de implementação
 
 → metodoForEach.js: Responsável por **exibir os livros** na tela e mostrar o valor total dos disponíveis.
+
 → metodoMap.js: Aplica **desconto em todos os livros**.
+
 → metodoFilter.js: Permite **filtrar livros por categoria ou disponibilidade**.
+
 → metodoReduce.js: Calcula o **valor total dos livros disponíveis**.
+
 → metodoSort.js: Ordena os livros pelo **preço** do menor para o maior.
 
 ---
