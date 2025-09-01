@@ -4,9 +4,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/AluraBooks)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/AluraBooks)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/AluraBooks)
+![GitHub repo size](https://img.shields.io/github/repo-size/UelintonHJ/AluraBooks)
+![GitHub language count](https://img.shields.io/github/languages/count/UelintonHJ/AluraBooks)
+![GitHub top language](https://img.shields.io/github/languages/top/UelintonHJ/AluraBooks)
 
 ---
 
